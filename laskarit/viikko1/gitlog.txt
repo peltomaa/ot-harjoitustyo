@@ -1,0 +1,20 @@
+commit 7de381056159030f2477167fa8814cb451cff2c9
+Author: Touko Peltomaa <touko.peltomaa@gmail.com>
+Date:   Mon Oct 26 21:52:45 2020 +0200
+
+    Modify files
+
+ tiedostoja/file2             | 0
+ tiedostoja/{file1 => file22} | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit b7575eefd211cb85947d40d8a1172f62d1a9bbc3
+Author: Touko Peltomaa <touko.peltomaa@gmail.com>
+Date:   Mon Oct 26 21:51:34 2020 +0200
+
+    Create files
+
+ tiedostoja/file1 | 0
+ tiedostoja/file2 | 0
+ tiedostoja/file3 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
