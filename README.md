@@ -2,7 +2,9 @@
 
 ## Dokumentaatio
 [Vaatimusmäärittely](https://github.com/peltomaa/ot-harjoitustyo/blob/main/dokumentaatio/vaatimusmaarittely.md)
+
 [Työaikakirjanpito](https://github.com/peltomaa/ot-harjoitustyo/blob/main/dokumentaatio/tuntikirjanpito.md)
+
 ## Tehtävät
 ### Viikko 1
 
